@@ -10,10 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5af020c56234b0745b7f548fb8ab0e69, type: 3}
-  m_Name: boot computer
+  m_Name: smoothie
   m_EditorClassIdentifier: 
-  storyText: Your stomach growls but you decide to power through it and get an early
-    jump on learning to make games using the C# langauge.
+  storyText: 'You make a delicious smoothie and drink it while watching Hunter X
+    Hunter
+
+
+    1: watch another episode
+
+
+    2: ok that was enough TV, let''s
+    start working on learning C#'
   nextStates:
-  - {fileID: 11400000, guid: 3b903a42ea9c7f843b6f7ccff9f6d948, type: 2}
-  - {fileID: 11400000, guid: 3c30be77046a8e24a9f1216b259b5761, type: 2}
+  - {fileID: 11400000, guid: 6f0372cde977f2e4793c4e7e628a3ffb, type: 2}
+  - {fileID: 11400000, guid: 334f9fe0b708a804bb95197b61865f02, type: 2}

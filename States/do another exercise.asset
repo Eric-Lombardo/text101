@@ -10,9 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5af020c56234b0745b7f548fb8ab0e69, type: 3}
-  m_Name: smoothie
+  m_Name: do another exercise
   m_EditorClassIdentifier: 
-  storyText: You make a delicious moothie and drink it while watching Hunter X Hunter
+  storyText: 'Wow you are learning so much! You are really pushign yourself!
+
+
+    1:
+    finish the entire module
+
+
+    2: take a break and have a snack'
   nextStates:
-  - {fileID: 11400000, guid: 3c30be77046a8e24a9f1216b259b5761, type: 2}
-  - {fileID: 11400000, guid: 334f9fe0b708a804bb95197b61865f02, type: 2}
+  - {fileID: 11400000, guid: 05f3aed15fa7fc743b03d80e0a43b2f2, type: 2}
+  - {fileID: 11400000, guid: 1ddedb39bef9af04b95c5fcec5839774, type: 2}
