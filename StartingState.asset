@@ -26,3 +26,6 @@ MonoBehaviour:
 
     2- ignore your hunger and boot up your computer and work until
     lunch time'
+  nextStates:
+  - {fileID: 11400000, guid: 3b903a42ea9c7f843b6f7ccff9f6d948, type: 2}
+  - {fileID: 11400000, guid: 334f9fe0b708a804bb95197b61865f02, type: 2}
