@@ -13,4 +13,6 @@ MonoBehaviour:
   m_Name: smoothie
   m_EditorClassIdentifier: 
   storyText: You make a delicious moothie and drink it while watching Hunter X Hunter
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 3c30be77046a8e24a9f1216b259b5761, type: 2}
+  - {fileID: 11400000, guid: 334f9fe0b708a804bb95197b61865f02, type: 2}

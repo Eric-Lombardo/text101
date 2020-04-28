@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: Your stomach growls but you decide to power through it and get an early
     jump on learning to make games using the C# langauge.
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 3b903a42ea9c7f843b6f7ccff9f6d948, type: 2}
+  - {fileID: 11400000, guid: 3c30be77046a8e24a9f1216b259b5761, type: 2}
